@@ -1,0 +1,5 @@
+﻿  ConsoleApplication.cpp
+E:\Университет\5 курс\2 семестр\Високопродуктивні обчислення\Lab 4\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(99,38): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+E:\Университет\5 курс\2 семестр\Високопродуктивні обчислення\Lab 4\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(127,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Университет\5 курс\2 семестр\Високопродуктивні обчислення\Lab 4\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(134,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication.vcxproj -> E:\Университет\5 курс\2 семестр\Високопродуктивні обчислення\Lab 4\ConsoleApplication\x64\Debug\ConsoleApplication.exe
